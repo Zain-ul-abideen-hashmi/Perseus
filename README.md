@@ -161,7 +161,6 @@ perseus/
 
 <br/>
 
-## ✦ Honest by design
 
 The **Bottlenecks** screen tracks sixteen unresolved problems in the open (B1–B16): the promotion policy isn't defined, the gaze net has no training signal yet, the entropy↔time constants are uncalibrated. Synthetic significance is **never** reported as real evidence — a simulated result becomes evidence only when the same pattern shows up in live traffic.
 
